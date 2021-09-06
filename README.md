@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome!
-#### I am Ma. Nikka S. Herrera 
+
 ![I am Ma. Nikka S. Herrera ](https://raw.githubusercontent.com/nikxherrera/banner/main/img/nikka.png)
 
 Hello!👋🏻 My name is Ma.Nikka Herrera. I am from Cavite State University taking BS Information Technology. 🏫
