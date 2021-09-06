@@ -6,7 +6,7 @@ Hello!👋🏻 My name is Ma.Nikka Herrera. I am from Cavite State University ta
 
 I have a huge interest in ux and ui design📝 as well coding👩‍💻! Currently studying ⚛️react js, gatsby, graph ql and being a succesful ux and ui designer. 
 
-I am a Microsoft Learn Student Ambassador, Community Manager at SurPath Hub and a Volunteer web designer at UXPH. 
+Currently Microsoft Learn Student Ambassador, Community Manager at SurPath Hub and a Volunteer web designer at UXPH. 
 
 I love to join different community and competition that involve creating something for the society! 🙋
 
