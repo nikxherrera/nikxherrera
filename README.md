@@ -10,9 +10,9 @@ Currently Microsoft Learn Student Ambassador, Community Manager at SurPath Hub a
 
 I love to join different community and competition that involve creating something for the society! 🙋
 
-📧 Email : ma.nikkaherrera@gmail.com | nikka@uxph.org
 
 Skills: Community Management | Mobile and Web Development | Project Management 
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning ReactJS 
